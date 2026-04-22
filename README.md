@@ -1,4 +1,4 @@
-Fun fact: 100% of my contributions to the Symfony codebase have been personally approved and merged by Fabien Potencier.
+Fun fact: 100% of my contributions to the Symfony project have been personally approved and merged by Fabien Potencier.
 
 - 👋 Hi, I’m @MAHADEV-J
 - 👀 I’m interested in ...
